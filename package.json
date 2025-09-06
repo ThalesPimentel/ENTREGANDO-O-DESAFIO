@@ -1,0 +1,9 @@
+{
+  "name": "ENTREGANDO-O-DESAFIO",
+  "version": "1.0.0",
+  "main": "src/AbrigoAnimais.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Nenhum teste definido ainda\""
+  }
+}
