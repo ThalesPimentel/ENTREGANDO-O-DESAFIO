@@ -1,10 +1,10 @@
 # ENTREGANDO O DESAFIO 🐾
 
-Implementação em JavaScript para gerenciar adoções de animais, conforme as regras do desafio.
+Implementação em JavaScript para gerenciar adoções de animais, conforme as regras de um desafio técnico.
 
 ## Estrutura
-- `src/AbrigoAnimais.js`: Classe principal.
-- `package.json`: Configuração Node.
+- `src/AbrigoAnimais.js`: Classe principal
+- `package.json`: Configuração Node
 
 ## Execução
 Este projeto foi desenvolvido para ser testado via importação:
